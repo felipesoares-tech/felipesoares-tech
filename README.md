@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center">Hello World, I'm Felipe Soares <img
+    <h1 align="center">Hello World, I'm Felipe Soares<img
             src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40" />
     </h1>
     <div align="center">
@@ -16,43 +16,34 @@
 </header>
 
 <dl>
-  <dt><strong>About me:</strong></dt>
+  <h2>🎭 About me:</h2>
   <li>🌱 I’m currently learning JavaScript and HTML/CSS;</li>
+  <li>Atualmente estou aprendendo JavaScript e HTML/CSS;</li>
   <li>📚 I’m Studying Systems Analysis and Development in IFTM (Instituto Federal do Triangulo Mineiro);</li>
+  <li>Estour cursando Análise e Desenvolvimento de Sistemas no IFTM;</li>
   <li>💬 Ask me about anything tech related, I'll be happy to help;</li>
+  <li>Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;</li>
 </dl>
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-    <a href="https://github.com/felipesoares-tech">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=felipesoares-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoares-tech&layout=compact&langs_count=7&theme=gotham" />
-      <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
-</p>
-    </a>
-</div>
-</div>
+<div style="display: inline_block"><br>
+    <div align="center">
+        <h2><strong>💻 Habilidades | Skills</strong></h2>
+        <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <h2>✨Estou interessado | I'm interested</h2>
+        <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <h3>Obrigado por ler | Thanks for reading<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></h3>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoares-tech&layout=compact&langs_count=7&theme=gotham">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesoares-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+        <br>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
+    </div> 
+    <div style="display: inline_block"><br>
 
-<div style="display: inline_block"><br>
-    <h3><strong>Languages and Tools:</strong></h3>
-    <img align="center" alt="C" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="html" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="css" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="javascript" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="java" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="vscode" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-    <img align="center" alt="arduino" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-    <p align="right"><font size="1"><strong>Thanks for visiting me </strong></font><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></p>
-<div style="display: inline_block"><br>
