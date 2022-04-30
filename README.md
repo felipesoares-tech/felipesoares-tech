@@ -1,6 +1,6 @@
 <!--########################################################Cabeçalho##################################################################################-->
 <header>
-<h1 align="center">Hello World, I'm Felipe Soares <img src="https://camo.githubusercontent.com/ddac101b6ae1547bece6cea0d34661baf7e88ee8fe6e26b4141f0b2a580fb8b3/68747470733a2f2f7777772e70686f746f66756e6b792e6e65742f6f75747075742f696d6167652f652f632f352f622f6563356264622f70686f746f66756e6b792e676966" width="40"/> </h1> 
+<h1 align="center">Hello World, I'm Felipe Soares <img src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40"/> </h1> 
 <div align="center">
   <a href="https://www.instagram.com/felipesoaarees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/mYR96h4s" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -37,6 +37,6 @@
   <img align="center" alt="arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   
   
-  <img align="right" alt="Kirito-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/JJXP77656U4AAAAM/sword-art-online-unamused.gif">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47dyr6n3tmltnwkkbtg1mfrnx6ayibasnbkwgporrb&rid=giphy.gif&ct=g">
 </div>
  <div style="display: inline_block"><br>
