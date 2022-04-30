@@ -1,6 +1,6 @@
 <!--########################################################Cabeçalho##################################################################################-->
 <header>
-<h1 align="center">Hello World, I'm Felipe Soares <img src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40"/> </h1> 
+<h1 align="center">Hello World, I'm Felipe Soares <img src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40"/> </h1>
 <div align="center">
   <a href="https://www.instagram.com/felipesoaarees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/mYR96h4s" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -23,6 +23,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesoares-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoares-tech&layout=compact&langs_count=7&theme=gotham"/>
     </a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 </div>
   <!--##############################################################################################-->
   <div style="display: inline_block"><br>
