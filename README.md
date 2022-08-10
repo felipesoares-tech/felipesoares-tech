@@ -20,9 +20,7 @@
   <li>🌱 I’m currently learning JavaScript and HTML/CSS;</li>
   <li>Atualmente estou aprendendo JavaScript e HTML/CSS;</li>
   <li>📚 I’m Studying Systems Analysis and Development in IFTM (Instituto Federal do Triangulo Mineiro);</li>
-  <li>Estour cursando Análise e Desenvolvimento de Sistemas no IFTM;</li>
-  <li>💬 Ask me about anything tech related, I'll be happy to help;</li>
-  <li>Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;</li>
+  <li>Estou cursando Análise e Desenvolvimento de Sistemas no IFTM;</li>
 </dl>
 
 <div style="display: inline_block"><br>
