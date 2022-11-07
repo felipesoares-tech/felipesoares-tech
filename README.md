@@ -40,8 +40,7 @@
         <h2>✨Estou interessado | I'm interested</h2>
         <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
         <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-        <img alt="kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img alt="typeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <h3>Obrigado por ler | Thanks for reading<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></h3>
         <a href="https://github.com/felipesoares-tech"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesoares-tech&layout=compact&langs_count=7&theme=gotham">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesoares-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"></a>
