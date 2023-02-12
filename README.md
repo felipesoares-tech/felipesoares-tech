@@ -17,10 +17,12 @@
 
 
   ## 🎭 About me:
-  - 🌱 I’m currently learning JavaScript and HTML/CSS;
-  - Atualmente estou aprendendo JavaScript e HTML/CSS;
+  - 🌱 I’m currently learning NodeJS;
+  - Atualmente estou aprendendo NodeJS;
   - 📚 I’m Studying Systems Analysis and Development in IFTM (Instituto Federal do Triangulo Mineiro);</li>
   - Estou cursando Análise e Desenvolvimento de Sistemas no IFTM;
+  - 🖥️ I'm currently working as a junior programmer at success systems company
+  - Atualmente estou trabalhando como programador junior na empresa success sistemas
 
 
 <div style="display: inline_block"><br>
