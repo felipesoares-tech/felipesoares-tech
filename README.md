@@ -15,7 +15,6 @@
 
 
   ## 🎭 About me:
-  - 🌱 I’m currently learning NodeJS;
   - 📚 I’m Studying Systems Analysis and Development in IFTM (Instituto Federal do Triangulo Mineiro);
   - 🖥️ I currently work as a programmer at success systems company
 
