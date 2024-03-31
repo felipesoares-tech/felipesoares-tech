@@ -15,8 +15,8 @@
 
 
   ## 🎭 About me:
-  - 📚 I’m Studying Systems Analysis and Development in IFTM (Instituto Federal do Triangulo Mineiro);
-  - 🖥️ I currently work as a programmer at success systems company
+  - 📚 I’m studying systems snalysis and development in IFTM (Instituto Federal do Triangulo Mineiro);
+  - 🖥️ I currently work at success systems as a backend developer
 
   ## *I am willing to collaborate as a team player building better code.* 💻
 
