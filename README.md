@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center">Hello World, I'm Felipe<img src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40" /></h1>
+    <h1 align="center">Hello World, I'm Felipe<img src="https://cdn.discordapp.com/attachments/968604243474915368/969783389039247360/hi.gif" width="40" /></h1>    
     <div align="center">
         <a href="https://www.instagram.com/felipesoaarees/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -12,7 +12,6 @@
                 target="_blank"></a> <br><br>
     </div>
 </header>
-
 
   ## 🎭 About me:
   - 📚 I’m studying systems snalysis and development in IFTM (Instituto Federal do Triangulo Mineiro);
@@ -67,3 +66,4 @@ Terminal:
     </div> 
     <div style="display: inline_block"><br>
 
+![](https://komarev.com/ghpvc/?username=felipesoares-tech)
