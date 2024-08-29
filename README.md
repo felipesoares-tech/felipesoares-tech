@@ -32,19 +32,24 @@ Backend:
 Frontend:
 
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-BD:
+Bd:
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MARIA](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-ORM:
+Orm:
 
 ![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+Devops:
+
+![DOCKER](https://img.shields.io/badge/Docker-3252A8?style=for-the-badge&logo=Docker&logoColor=white)
+![JENKINS](https://img.shields.io/badge/Jenkins-D8DBE6?style=for-the-badge&logo=Jenkins)
+
 
 Terminal:
 
