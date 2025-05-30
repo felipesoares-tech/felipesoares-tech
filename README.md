@@ -14,7 +14,7 @@
 </header>
 
   ## 🎭 About me:
-  - 📚 I’m studying systems snalysis and development in IFTM (Instituto Federal do Triangulo Mineiro);
+  - 📚 Systems Developer graduated from IFTM (Instituto Federal do Triangulo Mineiro);
   - 🖥️ I currently work at success systems as a backend developer
 
   ## *I am willing to collaborate as a team player building better code.* 💻
