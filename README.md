@@ -15,13 +15,13 @@
 
   ## 🎭 About me:
   - 📚 Systems Developer graduated from IFTM (Instituto Federal do Triangulo Mineiro);
-  - 🖥️ I currently work at success systems as a backend developer
+  - 🖥️ Currently work at Success Systems Company as a Backend Developer
 
   ## *I am willing to collaborate as a team player building better code.* 💻
 
 
   ### I know more about- 
-Backend:
+BackEnd:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,29 +29,29 @@ Backend:
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Frontend:
+FrontEnd:
 
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-Bd:
+DB:
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MARIA](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-Orm:
+ORM:
 
 ![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-Devops:
+DevOps:
 
 ![DOCKER](https://img.shields.io/badge/Docker-3252A8?style=for-the-badge&logo=Docker&logoColor=white)
 ![JENKINS](https://img.shields.io/badge/Jenkins-D8DBE6?style=for-the-badge&logo=Jenkins)
 
 
-Terminal:
+CLI:
 
 ![WINDOWS](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
